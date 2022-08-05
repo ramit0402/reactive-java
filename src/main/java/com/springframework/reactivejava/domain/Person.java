@@ -1,9 +1,6 @@
 package com.springframework.reactivejava.domain;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 /*
  * Created by Ramit Kovvalpurail
